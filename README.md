@@ -61,5 +61,3 @@ The `main.ino` file contains the complete firmware for the ESP32, including the 
 2.  **Arduino IDE Setup:** Install the ESP32 board manager and required libraries.
 3.  **Model Conversion:** Run the Python script to generate `model_data.h`.
 4.  **Upload Code:** Upload the `main.ino` and `model_data.h` files to your ESP32.
-
-✍️ Author: Rohan Pydipalli
