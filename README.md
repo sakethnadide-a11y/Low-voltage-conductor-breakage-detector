@@ -1,5 +1,3 @@
-# low-voltage-conductor-breakage-detector
-
 # Low Voltage Conductor Breakage Detector using IoT and Edge AI
 
 ## Overview
